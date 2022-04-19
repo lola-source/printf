@@ -15,8 +15,9 @@
 |o|print_octal|print a number in base 8|
 |R|print_rot|print a string encoded in rot13 format|
 ---
-######  _printf
-A function that produces output according to a format
-Prototype: `int _printf(const char *format, ...);`
+### _printf
+
+	A function that produces output according to a format
+	Prototype: `int _printf(const char *format, ...);`
 ---
 

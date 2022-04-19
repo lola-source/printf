@@ -3,6 +3,7 @@
 ### _Authors_ Lola-source Adagala and Abraham Aguvasu
 
 |Specifier|Functions|Description|
+|---------|--------|-----------|
 |s|print_string|prints a string|
 |c|print_char|prints a single character|
 |i|print_integer|print a number in base 10|

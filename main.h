@@ -1,5 +1,5 @@
-#ifndef _MAIN._H_
-#define _MAIN._H_
+#ifndef _MAIN_H_
+#define _MAIN_H_
 #include <stdarg.h>
 /**
  * struct print - structure for printing various types

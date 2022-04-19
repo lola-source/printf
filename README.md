@@ -1,6 +1,6 @@
 # 0x11. C - printf
 ***
-### _Authors_ Dolores Adagala:[Github](https://github.com/lola-source/printf "github"), Abraham Aguvasu:[Github](link "github")
+### _Authors_ Dolores Adagala:[Github](https://github.com/lola-source/printf "github"), Abraham Aguvasu:[Github](https://github.com/AbeNalee/printf "github")
 ---
 |Specifier|Functions|Description|
 |---------|--------|-----------|
